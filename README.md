@@ -1,9 +1,10 @@
-SAPIENS INTERFACE to perform pose estimation
+#SAPIENS INTERFACE to perform pose estimation
 
-REQUIRIMENTS
+##REQUIRIMENTS
  - Python 3.8+
 
-INSTALATION
+##INSTALATION
+
  - pip install notebook
  - cd/SAPIENS
  - jupyter notebook
